@@ -1,0 +1,13 @@
+# Başlangıç bağımlılıkları. Yeni kütüphane eklendikçe buraya yazılır.
+pandas
+python-dotenv
+requests
+google-api-python-client
+streamlit
+plotly
+scikit-learn
+openpyxl
+# Sonraki haftalarda eklenecek (şimdilik kurmayın):
+# playwright        -> Google Haritalar / e-ticaret toplayıcıları (Hafta 3)
+# transformers torch -> eğitilmiş modelleri bilgisayarda çalıştırmak için (Hafta 4)
+# google-genai       -> Gemini özeti ve etiketleme (Hafta 2)

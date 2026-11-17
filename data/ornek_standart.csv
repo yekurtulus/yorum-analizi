@@ -1,0 +1,6 @@
+platform,kaynak_url,yorum,tarih,puan,alan
+csv,ornek,"Yemekler çok lezzetliydi ama servis inanılmaz yavaştı.",2026-10-03,3,mekan
+csv,ornek,"Kargo iki günde geldi, paketleme özenliydi.",2026-10-11,5,urun
+csv,ornek,"Fiyatına göre kalitesi düşük, iade süreci de çok uğraştırdı.",2026-10-15,2,urun
+csv,ornek,"Anlatım çok net, ama ses kalitesi biraz kötü.",2026-11-01,,video
+csv,ornek,"Harika ya, siparişim sadece 3 haftada geldi :)",2026-11-05,1,urun

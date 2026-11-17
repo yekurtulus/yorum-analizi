@@ -1,0 +1,34 @@
+# Gizli anahtarlar
+.env
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+.ipynb_checkpoints/
+
+# Toplanan ham veri (paylaşılmaz)
+data/ham/*
+!data/ham/.gitkeep
+
+# Büyük model dosyaları (Google Drive'da tutulur)
+models/kaydedilmis_modeller/*
+!models/kaydedilmis_modeller/.gitkeep
+!models/kaydedilmis_modeller/README.md
+*.safetensors
+*.bin
+*.pt
+*.pkl
+
+# Önbellek
+.cache/
+ozet_onbellek/
+
+# Claude Code kişisel ayarları
+.claude/settings.local.json
+
+# İşletim sistemi
+Thumbs.db
+desktop.ini
+.DS_Store
